@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/Zfjz1rG/AMAZON-CLONE.png" />
 
 Hi there! Like this repo? Go now and check this powerful AMAZON CLONE I created from scratch!!
-**[AMAZON CLONE](https://clone-c7913.web.app/)**
+**[AMAZON CLONE](https://arnav-13a73.web.app/)**
 
 ## Features :fire:
 
